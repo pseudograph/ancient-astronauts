@@ -1,0 +1,155 @@
+Ancient Astronauts - v0.1
+---------------------------------------------------------------------------------------------------
+Script formatting:
+# denotes transitions or motion
+"..." denotes dialogue
+(...) denotes monologoue
+
+blank lines denote a textbox wipe
+---------------------------------------------------------------------------------------------------
+
+ch1
+
+# Black screen, text centered in textbox
+In the beginning, there was nothing but a singularity.
+From it rushed out the universe.
+
+Countless galaxies stretched and warped across a blank canvas,
+as virgin stardust swirled and coagulated within each one.
+
+As did space begin its flow from the cup of God,
+so did time.
+
+Of the many miracles time's perpetual march wrought,
+life was its most magnificent, but also its most ephemeral.
+
+Life gives stardust warmth.
+
+Blesses upon it love and grief.
+
+Arms it with intelligence, and the means to act.
+
+And curses upon it mortality.
+
+It is but a short respite from the still silence of the cosmos;
+a blip on the chronology of all that there is.
+
+We live like bubbles in the wake, surfacing momentarily only to dissipate once more into the ocean's tide.
+
+To exist devoid of meaning or purpose is a burden too great for any soul to bear.
+It dulls the mind and grinds down the soul to dust.
+
+Perhaps this is why it was not designed to be unending.
+Perhaps the desire to live beyond death is what romances and fascinates the mind more than life itself.
+
+The universe permits that much; for the dust that forms us never disappears.
+It may transmute, relocate, or lay dormant for unspeakably long,
+but it can always construct and reconstruct life once more.
+
+All that remains is for us to find our way.
+
+Even as my body is ground and dissolved in the frozen dark,
+even as I wander blind through the storm,
+my remains shall find their way to you eventually.
+
+I need no compass for I have faith.
+
+I need no vessel for I have time.
+
+If not in this life, then the next.
+And if not in the next, I will live as long as it takes.
+For if there is one thing that lasts longer than time itself,
+
+it is my boundless, eternal love for you.
+
+-
+
+ch2
+
+I am a speck of metal lost in a galactic ocean.
+Beyond this window lies space unbound. There is neither light nor air nor life save for myself.
+
+There are, however, stars, strewn across the void.
+
+My breath has begun to fog up the window, so I wipe it clean with my sleeve.
+My reflection sharpens: black hair made long and unruly by an eternity in cryosleep,
+and eyes blue and still like a lake at peace.
+
+These are the eyes of someone long since forgotten by a world long since extinct.
+Even I have forgotten my name and my place in this universe. All I know is the knowledge installed into my mind when I wakened.
+
+To search for a new home, seed it with life, and watch as they flourish.
+That was my mission, and the mission of the hundreds of souls aboard.
+
+_oracle "Preparing for final approach. Begin landing preparations immediately."
+The ship pitches gently. I make my way towards the bow, taking care not to bump into the dials and instruments
+mounted to the walls.
+
+An aging but nonetheless secure bulkhead opens as I approach, permitting me into the cockpit.
+
+Its size befits my station as a lone pilot:
+claustrophobic with panels and instruments on all sides within arm's reach,
+and just large enough to serve as my coffin if things go awry.
+
+Through the narrow windshield above the dashboard I can see a vast blue sphere streaked with wisps of white and masses of brown.
+This is the planet Oracle deemed most suitable for life, and it is on this planet that we would live once more.
+
+However, the time I spent in cryosleep had eroded my memories to nothing.
+My mind is an infant, force-fed the knowledge of an adult but with its innocence still intact.
+This would be my first chance at life.
+
+I strapped myself into the seat and lowered the harness.
+The planet's colossal size bears down on me as Oracle guides the ship into the atmosphere.
+
+(I wonder... if my planet was this large too.)
+(And how my past life went. Even if I knew... it would seem like somebody else's life, not mine.)
+
+(And with how long it's been since I left, surely there's nothing left of past me.)
+(My planet might not even exist anymore.)
+(It'd be nice if I could preserve it in my memories, but I don't remember a thing...)
+
+The ship begins to shake violently, its reinforced belly burning through the thick atmosphere.
+My vision rattles, but I keep my eyes open— so I may sear the sight of this planet into my mind.
+
+The windshield turns white, blanketed by clouds.
+The severe deceleration anchors me to my chair, draining blood from my eyes.
+I struggle to shake off the gentle shadow smothering my sight, but my neck is pinned to my chair.
+
+As I teeter on the precipice of consciousness, the clouds disappear and give way to the world beneath.
+Oracle engages the VTOL thrusters to slow our rate of descent, and my vision gradually returns.
+I gasp and sputter for life, struggling to regain my bearings. The cockpit feels oppressive and suffocating all of a sudden.
+
+"Oracle, draw the blinds!"
+_oracle "Certainly."
+
+The hull above and beyond the windshield retracts, revealing glass beneath. A means to extend the windshield.
+Beneath me stretches a deep shade of blue, stained slightly indigo by the night sky:
+a vast, undisturbed lake that mirrors the heavens above.
+
+The moon stares back at me, resting peacefully upon the water's surface. 
+It gives chase as I fly past and towards land.
+
+Mountains stand guard in the distance, their frosted peaks reaching into the clouds.
+The sandy shore quickly gives way to rolling fields of long, blue grass.
+
+(Is anyone out there?)
+(Is anyone watching, as I make my descent?)
+
+(It's been so, so long... So long that I cannot remember how long it's been.)
+(So long since I last met a living being.)
+
+(It's as though... I'm the only one left.)
+(Alone on a strange planet, forsaken even by my own memory, but not yet by my own humanity.)
+
+(Nobody to hold me accountable. Nobody to be responsible for.)
+(It would have been trivial to disable Oracle and go back into cryosleep,
+leaving the ship to drift idle until our collective demise.)
+
+(And yet, I feel myself being tugged along by the invisible strings of fate.)
+(I cannot fathom how far they span, or how long they have guided me here...)
+
+(But without them, I might have chosen death instead.)
+
+(Perhaps this is telling of my weak, feeble heart, but...)
+(Mine is one that cannot beat alone.)
+
