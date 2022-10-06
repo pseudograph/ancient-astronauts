@@ -3,6 +3,7 @@
 * Docs to Markdown version 1.0β33
 * Thu Oct 06 2022 06:56:19 GMT-0700 (PDT)
 * Source doc: Ancient Astronauts (rewrite)
+* Notes: Text alignment and heading sizes are missing. Add later.
 ----->
 
 
